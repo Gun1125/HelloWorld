@@ -1,0 +1,9 @@
+cd /D或者其他盘
+git clone https://----连接的库
+cd /D/库名
+git add test_git.txt //传送上git
+git commit -m "text_git" //备注
+git push origin master	//真正上传
+输入账号密码登陆
+
+
